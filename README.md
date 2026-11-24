@@ -18,5 +18,5 @@ Our current goal is to create a cohesive, working game where the player can rece
 | ---| --- | --- |
 | Rodolfo | Programming/Level Design | Program System Dynamics and other basic functionalities  |
 | Mandy | Art/Level Design | |
-| Khoi | | |
+| Khoi | Programming/Gameplay Systems | Develop core gameplay systems and player interactions |
 | Julie | Animation/Programming | Develop game animations and help implement gameplay mechanics |
