@@ -17,6 +17,6 @@ Our current goal is to create a cohesive, working game where the player can rece
 | Group Member | Role | Goals/Responsibilities |
 | ---| --- | --- |
 | Rodolfo | Programming/Level Design | Program System Dynamics and other basic functionalities  |
-| Mandy | Art/Level Design | |
+| Mandy | Art/Level Design | Add visual assets and develop gameplay functions |
 | Khoi | Programming/Gameplay Systems | Develop core gameplay systems and player interactions |
 | Julie | Art/Programming | Create visual assets, integrate the existing animations, and help implement gameplay mechanics |
